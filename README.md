@@ -14,7 +14,7 @@ This is the jobs listing project from the [Jenis Damraliya](https://damraliyajen
 <img src="public/jenis-jobs-add.png" alt="Add Job Page" width="800" />
 
 ### 📋 Job Listing Page
-<img src="public/jenis-jobs-listing.png" alt="Job Listing Page" width="800" />
+<img src="public/listing.png" alt="Job Listing Page" width="800" />
 
 ## Usage
 
