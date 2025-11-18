@@ -1,29 +1,43 @@
-# vue-jed
+# Jenis Jobs Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the jobs listing project from the [Jenis Damraliya](https://damraliyajenis.web.app).
 
-## Recommended IDE Setup
+## Screenshots
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### 🏠 Home Page
+<img src="public/jenis-jobs-home.png" alt="Home Page" width="800" />
 
-## Customize configuration
+### 🔍 Browse Jobs Page
+<img src="public/jenis-browse-jobs.png" alt="Browse Jobs Page" width="800" />
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### ➕ Add Job Page
+<img src="public/jenis-jobs-add.png" alt="Add Job Page" width="800" />
 
-## Project Setup
+### 📋 Job Listing Page
+<img src="public/jenis-jobs-listing.png" alt="Job Listing Page" width="800" />
 
-```sh
+## Usage
+
+This project uses JSON-Server for a mock backend.
+
+### Install Dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run JSON Server
 
-```sh
-npm run dev
+The server will run on http://localhost:8000
+
+```bash
+npm run server
 ```
 
-### Compile and Minify for Production
+### Run Vite Frontend
 
-```sh
-npm run build
+Vue will run on http://localhost:3000
+
+```bash
+npm run dev
 ```
